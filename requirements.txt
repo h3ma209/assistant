@@ -1,0 +1,4 @@
+git+https://github.com/huggingface/transformers
+torch
+pytube
+gradio==3.41.0
